@@ -1,5 +1,5 @@
 include ':lib'
-
+https://github.com/material-components/material-components-android.git
 include ':testing:java:com:google:android:material:testapp'
 include ':testing:java:com:google:android:material:testapp:animation'
 include ':testing:java:com:google:android:material:testapp:base'
